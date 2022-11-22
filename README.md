@@ -1,5 +1,9 @@
 # [dabloon-bal](https://woofledev.github.io/dabloon-bal)
  a simple site that stores your dabloons and can do simple actions with them
+## EDIT
+i noticed that the actual thing doesn't work at all, so for a temporary solution
+just use a webserver
+
 ## things you should know
 - the website uses cookies to store your dabloons.
 - the website is located [here](https://woofledev.github.io/dabloon-bal)
