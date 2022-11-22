@@ -1,4 +1,4 @@
-# [dabloon calculator](https://dabloonbal.github.io)
+# [dabloon-bal](https://dabloonbal.github.io)
  a simple site that stores your dabloons and can do simple actions with them
 ## things you should know
 - the website uses cookies to store your dabloons.
